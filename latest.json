@@ -1,6 +1,0 @@
-{
-    "version": "3.2.0",
-    "releaseNotes": [
-        "Add attributes to omaha request xml body."
-    ]
-}
